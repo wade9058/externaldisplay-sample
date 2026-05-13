@@ -1,0 +1,49 @@
+*.iml
+.gradle
+local.properties
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (SDK 路徑等)
+
+# IDE 設定檔
+.idea/
+/.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Mac / Windows 系統檔
+Thumbs.db
+
+# Log files
+*.log
+
+# Android Studio generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore (如果有放在專案裡，避免洩漏)
+*.jks
+*.keystore
+
+# APK / AAB 打包檔
+*.apk
+*.ap_
+*.aab
+
+# 其他暫存檔
+*.tmp
